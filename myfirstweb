@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="example.css">
+    <title>βテスト</title>
+</head>
+<body>
+    <div style="text-align:center;"><h1><font color="000080">インペリアルストームトルーパー</font></h1></div>
+    <div style="text-align:center;"><img src="https://pbs.twimg.com/media/EL7gcNCU4AAAM_w?format=jpg&name=large"alt="DELTA"width="980" height="580">
+    <div style="text-align:center;"><h2>インペリアルストームトルーパーとは？</h2>
+        <p>インペリアルストームトルーパーとはクローンウォーズ末期、元老院最高議長パルパティーンがオーダー66を発令で<br>力を失った共和国軍VS分離主義者の戦争の終結の後、皇帝パルパティーンによって銀河帝国が新設された。その帝国の新世代クローントルーパー達の総称である。<br>スターウォーズの新作に出てくるトルーパーとはデザインが異なる。</p>
+</body>
+</html>
